@@ -5,3 +5,13 @@ I am changing the file and cloning it
 My name is Kavya. I am an employee
 
 Today is Wednesday
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+ Manasa is a very good girl :)
+=======
+Malli editing..
+
+>>>>>>> a4442e04d3bf81b8a93b11f9adcfe14fe73810ad
+>>>>>>> master
